@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KryptoXenon
-- 👀 I’m interested in Software Engineering, Web Development and Logical Reasoning
-- 🌱 I’m currently learning C++ and trying to develop competitive coding skills
+- 👀 I’m interested in Software Engineering, Web Development and Logical Machine Learning
+- 🌱 I’m currently learning ML and trying to develop competitive coding skills
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 You can reach me at aryansoni1593@gmail.com
 
